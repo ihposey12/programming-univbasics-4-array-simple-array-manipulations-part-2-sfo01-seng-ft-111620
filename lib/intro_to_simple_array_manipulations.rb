@@ -4,5 +4,5 @@ end
 
 def using_insert(arr, element)
   arr.unshift(element)
-  arr.insert(element[4])
+  arr.insert(element)
 end
