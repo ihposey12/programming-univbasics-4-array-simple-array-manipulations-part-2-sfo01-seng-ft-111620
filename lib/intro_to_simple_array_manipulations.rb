@@ -3,7 +3,7 @@ def using_concat(arr1, arr2)
 end
 
 def using_insert(array, new_element)
-  new_element.insert(-1, 'Python')
+  new_element.insert(-1, ' ')
 end
 
 def using_uniq(array)
